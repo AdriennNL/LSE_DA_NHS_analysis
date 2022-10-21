@@ -103,4 +103,17 @@ NHS can utilise tweets:<br>
 
 **Assignment activity 6:** <br>
 
+Total number of visits per month:<br>
+![image](https://user-images.githubusercontent.com/108824849/197217085-97b8b4fb-d89b-4716-afea-89d62f51a22e.png)
 
+Busiest month are October, November and March. <br>
+
+![image](https://user-images.githubusercontent.com/108824849/197217235-c9da5cd9-a1bf-41a8-902f-8c5bf5221bf9.png)
+
+The NHS can accommodate a maximum of 1,200,000 appointments per day, and since the number of appointments are lower than that, they do not have to look at increasing staff levels. <br>
+There is adequate staff and capacity in the networks, utilization is low, they can do minimum 200k more per day in the busy months and 400k more in the low months like December-January and February. <br>
+
+The healthcare professional types over time:
+![image](https://user-images.githubusercontent.com/108824849/197217503-d5580a54-3fb4-427d-9868-7fc42061d0cf.png)
+
+The trend per professional type is similar: Summer and Winter months are low for both; November is the highest for Other Practice stuff; March is the highest months for GP. But the trend for both is the same: Sept-Oct-Nov are high following low winter months; March is high following lower April and summer months. 
