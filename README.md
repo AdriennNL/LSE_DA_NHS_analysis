@@ -1,21 +1,21 @@
 Assignment Course2 - NHS analysis
 
 Assignment activity 2:
-There are 106 number of locations.
-The top five locations with the highest number of appointments are:
-  •NHS North West London ICB - W2U3Z            
-  •NHS North East London ICB - A3A8R              
+There are 106 number of locations. <br>
+The top five locations with the highest number of appointments are:<br>
+  •NHS North West London ICB - W2U3Z            <br>
+  •NHS North East London ICB - A3A8R    <br>          
   •NHS Kent and Medway ICB - 91Q                  
-  •NHS Hampshire and Isle Of Wight ICB - D9Y0V    
-  •NHS South East London ICB - 72Q                
-There are 4 service settings:
-  •Primary Care Network
-  •General Practice
-  •Extended Access Provision
-  •Other
-There is 1 context type:
-  •Care Related Encounter
-There are 16 national categories:
+  •NHS Hampshire and Isle Of Wight ICB - D9Y0V    <br>
+  •NHS South East London ICB - 72Q     <br>           
+There are 4 service settings:<br>
+  •Primary Care Network<br>
+  •General Practice<br>
+  •Extended Access Provision<br>
+  •Other<br>
+There is 1 context type:<br>
+  •Care Related Encounter<br>
+There are 16 national categories:<br>
   •Patient contact during Care Home Round
   •Planned Clinics
   •Home Visit
