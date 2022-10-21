@@ -125,3 +125,16 @@ Graphical representation for whether visits are attended:<br>
 
 The pattern for the 2 different healthcare professional stays the same, but if we zoom into the not attended chart: There are way higher amount of visits that are not attended in the Other Practice stuff category.  And the most not attended visits are in November. 
 
+Changes in terms of appointment mode and the busiest months:
+
+![image](https://user-images.githubusercontent.com/108824849/197241052-7ab4692d-7a66-4e5b-8244-6558dae4694c.png)
+![image](https://user-images.githubusercontent.com/108824849/197242622-2907bcd7-3fea-4313-9ffc-2286dafddb7a.png)
+![image](https://user-images.githubusercontent.com/108824849/197241073-5b15da4e-7729-4730-9661-68c90582306b.png)
+
+As you see in the first chart above the face-to-face visits are the most, and the busiest months for that appointment mode is  October and November.  The video and home visit are flat month to month. Looking at the telephone visits, the highest is march and very low in April. 
+
+
+
+
+
+
