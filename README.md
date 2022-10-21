@@ -95,7 +95,7 @@ Top 20 trending hashtags:<br>
 ![image](https://user-images.githubusercontent.com/108824849/197213250-50e06742-412c-43fa-9d41-7ce8540bf07b.png)
 ![image](https://user-images.githubusercontent.com/108824849/197213273-09fd55a1-e4c1-4506-bf39-66ec39e0e08a.png)
 
-This analysis does not add value directly to this specific project, bBut it does show its potential: <br>
+This analysis does not add value directly to this specific project, but it does show its potential: <br>
 NHS can utilise tweets:<br>
 -	Great way to increase the visibility of customers’ tweets / trending topics.<br>
 -	It is a great way to find out the reactions of people to an event as it happens, whether it’s entertainment or breaking news, or COVID. <br>
