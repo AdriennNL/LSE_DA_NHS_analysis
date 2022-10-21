@@ -39,7 +39,7 @@ There are 2 appointment status:<br>
 Merging of the 3 files does not make sense because:<br>
 - granularity is not the same of the files (ar file in on date level)<br>
 - the number of appointments is not the same on days level (data integrity)<br>
-<br>
+
 **Assignment activity 3:** <br>
 Appointments were scheduled between 1st od January 2020 and 30th of June 2022. <br>
 General Practice service setting reported the most appointments in North West London from 1 January to 1 June 2022.<br>
