@@ -70,3 +70,27 @@ Visualisations indicating the number of appointments per month for national cate
 
 Looking at the national category, the most appointments are booked regarding the General Consultation Routine (between 8 and 10M per month), following General Consultation Acute (between 4M and 6M pe month), and Clinical Triage (about 4M per month).
 
+Number of appointments per day in the summer: <br>
+![image](https://user-images.githubusercontent.com/108824849/197211440-725fda62-bc0a-4809-bcc7-a58dcb3f09b7.png)
+![image](https://user-images.githubusercontent.com/108824849/197211461-89ca9681-7e2f-4ef1-afe7-c253770439b3.png)
+
+Number of appointments per day in the autumn: <br>
+![image](https://user-images.githubusercontent.com/108824849/197211549-67d843ba-5608-4a03-b63e-515d6b7e69af.png)
+![image](https://user-images.githubusercontent.com/108824849/197211566-53c5de1d-a0d5-4526-a97b-40c3a9cdd092.png)
+
+Number of appointments per day in the winter: <br>
+![image](https://user-images.githubusercontent.com/108824849/197211620-ce3ac235-bdf8-4f8a-b66d-f2aacf2705f9.png)
+![image](https://user-images.githubusercontent.com/108824849/197211659-4b27dd64-7da4-4a12-a4a6-6483d2688005.png)
+
+Number of appointments per day in the spring: <br>
+![image](https://user-images.githubusercontent.com/108824849/197211725-542a62d3-0279-4f3b-8139-aa7f33c03b25.png)
+![image](https://user-images.githubusercontent.com/108824849/197211754-79f0c2ec-d3af-4be5-bbde-15821d591f0a.png)
+
+In all seasons is the pattern the same. Low at the weekends, and Monday is the busiest day of the week in all categories.  
+
+
+
+
+
+
+
