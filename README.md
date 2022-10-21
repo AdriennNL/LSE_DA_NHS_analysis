@@ -125,16 +125,24 @@ Graphical representation for whether visits are attended:<br>
 
 The pattern for the 2 different healthcare professional stays the same, but if we zoom into the not attended chart: There are way higher amount of visits that are not attended in the Other Practice stuff category.  And the most not attended visits are in November. 
 
-Changes in terms of appointment mode and the busiest months:
+Changes in terms of appointment mode and the busiest months:<br>
 
 ![image](https://user-images.githubusercontent.com/108824849/197241052-7ab4692d-7a66-4e5b-8244-6558dae4694c.png)
 ![image](https://user-images.githubusercontent.com/108824849/197242622-2907bcd7-3fea-4313-9ffc-2286dafddb7a.png)
 ![image](https://user-images.githubusercontent.com/108824849/197241073-5b15da4e-7729-4730-9661-68c90582306b.png)
 
-As you see in the first chart above the face-to-face visits are the most, and the busiest months for that appointment mode is  October and November.  The video and home visit are flat month to month. Looking at the telephone visits, the highest is march and very low in April. 
+As you see in the first chart above the face-to-face visits are the most, and the busiest months for that appointment mode is  October and November.  The video and home visit are flat month to month. Looking at the telephone visits, the highest is march and very low in April. Interesting finding is that the face-to-face visit has a high amount of not attend visits in October (more than 1.2M in one month) . Also, the telephone visit has a constant 200k per month non attended visit. 
 
+Trends in time between booking and appointment:<br>
 
+![image](https://user-images.githubusercontent.com/108824849/197247296-54ace718-a05d-454d-9eac-33b08d7b6d88.png)
 
+The majority of the appointments are in the same day category, followed by ‘2 to 7 days’ and ‘8 to 14 days’.  The busiest month for the same day is March, while for the 2 to 7 days’ and ‘8 to 14 days’ is the October month. 
 
+Comparing the various service settings:<br>
 
+![image](https://user-images.githubusercontent.com/108824849/197247457-cfe372c4-e791-4a2b-80dd-b9723f9cfd73.png)
+![image](https://user-images.githubusercontent.com/108824849/197247485-42639669-76f1-41d2-8806-a99ee768722c.png)
+
+The biggest monthly spread, with other words the biggest variation in the amount of visits from month to month is at General Practice. The difference is 3.4m. There is also a lot of unmapped appointments: between 800k and 1.3m. The other categories has relatively stable amount of appointment from month to months and the spread is not as huge.   
 
