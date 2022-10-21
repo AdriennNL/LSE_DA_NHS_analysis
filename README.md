@@ -47,7 +47,6 @@ In the month of November 2021 had the highest number of appointments.<br>
 Display the total number of records per month:<br>
 
 ![image](https://user-images.githubusercontent.com/108824849/197208551-f36138bb-e318-48e1-8649-5f0bd69249f8.png)
-![image](https://user-images.githubusercontent.com/108824849/197209922-8a7d7a70-096e-44c5-a8ba-ea6bdc67ba9e.png)
 
 
 **Assignment activity 4:** <br>
