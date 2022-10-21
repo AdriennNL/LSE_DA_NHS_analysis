@@ -88,9 +88,12 @@ Number of appointments per day in the spring: <br>
 
 In all seasons is the pattern the same. Low at the weekends, and Monday is the busiest day of the week in all categories.  
 
+**Assignment activity 5:** <br>
 
-
-
+Top 20 trending hashtags:<br>
+![image](https://user-images.githubusercontent.com/108824849/197213028-944bd8c5-64e7-42c4-bb39-5d0e4735eda8.png)
+![image](https://user-images.githubusercontent.com/108824849/197213250-50e06742-412c-43fa-9d41-7ce8540bf07b.png)
+![image](https://user-images.githubusercontent.com/108824849/197213273-09fd55a1-e4c1-4506-bf39-66ec39e0e08a.png)
 
 
 
