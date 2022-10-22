@@ -6,8 +6,8 @@ There are 106 number of locations. <br>
 
 The top five locations with the highest number of appointments are:<br>
   •NHS North West London ICB - W2U3Z <br>
-  •NHS North East London ICB - A3A8R <br>          
-  •NHS Kent and Medway ICB - 91Q <br>              
+  •NHS North East London ICB - A3A8R <br> 
+  •NHS Kent and Medway ICB - 91Q <br> 
   •NHS Hampshire and Isle Of Wight ICB - D9Y0V<br>
   •NHS South East London ICB - 72Q  <br>           
 
