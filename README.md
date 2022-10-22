@@ -44,10 +44,6 @@ Merging of the 3 files does not make sense because:<br>
 Appointments were scheduled between 1st od January 2020 and 30th of June 2022. <br>
 General Practice service setting reported the most appointments in North West London from 1 January to 1 June 2022.<br>
 In the month of November 2021 had the highest number of appointments.<br>
-Display the total number of records per month:<br>
-
-![image](https://user-images.githubusercontent.com/108824849/197208551-f36138bb-e318-48e1-8649-5f0bd69249f8.png)
-
 
 **Assignment activity 4:** <br>
 
